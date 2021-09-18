@@ -8,4 +8,4 @@ I'm a community-taught developer with experience in e-commerce marketing & spons
 - [LinkedIn](https://www.linkedin.com/in/mandihamza/)
 - [Twitter](https://twitter.com/mandicodes)
 - [mandi.dev](https://www.mandi.dev/) 
-  - This refresh is under way 🚧, check out my old portfolio [here](https://www.technicallymandi.com/)
+  - 🚧 This refresh is under way, check out my old portfolio [here](https://www.technicallymandi.com/) 🚧
