@@ -2,6 +2,8 @@
 
 I'm a community-taught full stack developer with experience in e-commerce marketing & sponsorships development. Recently I've been getting into using creative coding projects to learn new things like web audio, and I'd like to dig into building augmented reality apps 👀
 
+I'm seeking my first software development role this year. Feel free to reach out and say hi hey[@]mandi[dot]dev 
+
 ### You can find me around these here internets @
 - [Dev.to](https://dev.to/technicallymandi)
 - [Polywork](https://www.polywork.com/mandihamza)
